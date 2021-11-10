@@ -1,6 +1,0 @@
-name: golden_scenario_env
-dependencies:
-  - pandas-profiling
-  - matplotlib
-  - pydotplus
-  - scikit-learn

@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pandas-profiling
+ipython
+pydotplus
+scikit-learn
