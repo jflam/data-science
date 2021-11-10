@@ -1,4 +1,4 @@
 {
-    "requires_gpu": "false",
-    "base_container_image": "ubuntu:20.04"
+    "requires_gpu": "true",
+    "base_container_image": "tensorflow/tensorflow"
 }
