@@ -2,6 +2,8 @@ pandas
 numpy
 matplotlib
 pandas-profiling
-ipython
+ipykernel
 pydotplus
 scikit-learn
+pygraphviz
+ipywidgets
